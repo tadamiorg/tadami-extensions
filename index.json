@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Tadami: GogoAnime",
+		"pkg": "com.sf.tadami.extension.en.gogoanime",
+		"apk": "tadami-en.gogoanime-v1.1.apk",
+		"lang": "en",
+		"code": 1,
+		"version": "1.1",
+		"sources": [
+			{
+				"name": "GogoAnime",
+				"lang": "en",
+				"id": "1",
+				"baseUrl": "https://anitaku.to",
+				"versionId": 1
+			}
+		]
+	},
+	{
+		"name": "Tadami: AnimeSama",
+		"pkg": "com.sf.tadami.extension.fr.animesama",
+		"apk": "tadami-fr.animesama-v1.1.apk",
+		"lang": "fr",
+		"code": 1,
+		"version": "1.1",
+		"sources": [
+			{
+				"name": "AnimeSama",
+				"lang": "fr",
+				"id": "1",
+				"baseUrl": "https://anime-sama.fr",
+				"versionId": 1
+			}
+		]
+	}
+]
