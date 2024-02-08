@@ -2,17 +2,17 @@
 	{
 		"name": "Tadami: GogoAnime",
 		"pkg": "com.sf.tadami.extension.en.gogoanime",
-		"apk": "tadami-en.gogoanime-v1.0.1.apk",
+		"apk": "tadami-en.gogoanime-v1.0.2.apk",
 		"lang": "en",
 		"code": 1,
-		"version": "1.0.1",
+		"version": "1.0.2",
 		"sources": [
 			{
 				"name": "GogoAnime",
 				"lang": "en",
 				"id": "1",
 				"baseUrl": "https://anitaku.to",
-				"versionId": 1
+				"versionId": 2
 			}
 		]
 	},
