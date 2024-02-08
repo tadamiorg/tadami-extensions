@@ -2,10 +2,10 @@
 	{
 		"name": "Tadami: GogoAnime",
 		"pkg": "com.sf.tadami.extension.en.gogoanime",
-		"apk": "tadami-en.gogoanime-v1.1.apk",
+		"apk": "tadami-en.gogoanime-v1.0.1.apk",
 		"lang": "en",
 		"code": 1,
-		"version": "1.1",
+		"version": "1.0.1",
 		"sources": [
 			{
 				"name": "GogoAnime",
@@ -19,16 +19,33 @@
 	{
 		"name": "Tadami: AnimeSama",
 		"pkg": "com.sf.tadami.extension.fr.animesama",
-		"apk": "tadami-fr.animesama-v1.1.apk",
+		"apk": "tadami-fr.animesama-v1.0.1.apk",
 		"lang": "fr",
 		"code": 1,
-		"version": "1.1",
+		"version": "1.0.1",
 		"sources": [
 			{
 				"name": "AnimeSama",
 				"lang": "fr",
-				"id": "1",
+				"id": "2",
 				"baseUrl": "https://anime-sama.fr",
+				"versionId": 1
+			}
+		]
+	},
+	{
+		"name": "Tadami: VostFree",
+		"pkg": "com.sf.tadami.extension.fr.vostfree",
+		"apk": "tadami-en.vostfree-v1.0.1.apk",
+		"lang": "fr",
+		"code": 1,
+		"version": "1.0.1",
+		"sources": [
+			{
+				"name": "VostFree",
+				"lang": "fr",
+				"id": "3",
+				"baseUrl": "https://vostfree.ws",
 				"versionId": 1
 			}
 		]
