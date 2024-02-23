@@ -49,5 +49,22 @@
 				"versionId": 1
 			}
 		]
+	},
+	{
+		"name": "Tadami: OtakuFr",
+		"pkg": "com.sf.tadami.extension.fr.otakufr",
+		"apk": "tadami-fr.otakufr-v1.0.1.apk",
+		"lang": "fr",
+		"code": 1,
+		"version": "1.0.1",
+		"sources": [
+			{
+				"name": "OtakuFr",
+				"lang": "fr",
+				"id": "5",
+				"baseUrl": "https://otakufr.co/",
+				"versionId": 1
+			}
+		]
 	}
 ]
