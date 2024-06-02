@@ -66,5 +66,22 @@
 				"versionId": 6
 			}
 		]
+	},
+	{
+		"name": "Tadami: AniSama",
+		"pkg": "com.sf.tadami.extension.fr.anisama",
+		"apk": "tadami-fr.anisama-v1.1.1.apk",
+		"lang": "fr",
+		"code": 1,
+		"version": "1.1.1",
+		"sources": [
+			{
+				"name": "AniSama",
+				"lang": "fr",
+				"id": "6",
+				"baseUrl": "https://v1.anisama.net",
+				"versionId": 1
+			}
+		]
 	}
 ]
