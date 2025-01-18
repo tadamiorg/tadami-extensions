@@ -69,7 +69,7 @@
 	},
 	{
 		"name": "Tadami: AnimePahe",
-		"pkg": "com.sf.tadami.extension.fr.animepahe",
+		"pkg": "com.sf.tadami.extension.en.animepahe",
 		"apk": "tadami-fr.animepahe-v1.1.1.apk",
 		"lang": "en",
 		"code": 1,
