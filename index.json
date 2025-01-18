@@ -66,5 +66,22 @@
 				"versionId": 6
 			}
 		]
+	},
+	{
+		"name": "Tadami: AnimePahe",
+		"pkg": "com.sf.tadami.extension.fr.animepahe",
+		"apk": "tadami-fr.animepahe-v1.1.1.apk",
+		"lang": "en",
+		"code": 1,
+		"version": "1.1.1",
+		"sources": [
+			{
+				"name": "AnimePahe",
+				"lang": "en",
+				"id": "7",
+				"baseUrl": "https://animepahe.com",
+				"versionId": 1
+			}
+		]
 	}
 ]
