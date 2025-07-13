@@ -53,17 +53,17 @@
 	{
 		"name": "Tadami: HiAnime",
 		"pkg": "com.sf.tadami.extension.en.hianime",
-		"apk": "tadami-en.hianime-v1.2.1.apk",
+		"apk": "tadami-en.hianime-v1.2.2.apk",
 		"lang": "en",
-		"code": 1,
-		"version": "1.2.1",
+		"code": 2,
+		"version": "1.2.2",
 		"sources": [
 			{
 				"name": "HiAnime",
 				"lang": "en",
 				"id": "10",
-				"baseUrl": "https://hianimez.to",
-				"versionId": 1
+				"baseUrl": "https://hianime.to",
+				"versionId": 2
 			}
 		]
 	}
