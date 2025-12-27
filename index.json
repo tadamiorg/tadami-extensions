@@ -66,5 +66,22 @@
 				"versionId": 1
 			}
 		]
+	},
+	{
+		"name": "Tadami: VoirAnime",
+		"pkg": "com.sf.tadami.extension.fr.voiranime",
+		"apk": "tadami-fr.voiranime-v1.4.2.apk",
+		"lang": "fr",
+		"code": 2,
+		"version": "1.4.2",
+		"sources": [
+			{
+				"name": "VoirAnime",
+				"lang": "fr",
+				"id": "19",
+				"baseUrl": "https://v6.voiranime.com",
+				"versionId": 2
+			}
+		]
 	}
 ]
