@@ -2,17 +2,17 @@
 	{
 		"name": "Tadami: AnimeSama",
 		"pkg": "com.sf.tadami.extension.fr.animesama",
-		"apk": "tadami-fr.animesama-v1.4.22.apk",
+		"apk": "tadami-fr.animesama-v1.4.23.apk",
 		"lang": "fr",
-		"code": 22,
-		"version": "1.4.22",
+		"code": 23,
+		"version": "1.4.23",
 		"sources": [
 			{
 				"name": "AnimeSama",
 				"lang": "fr",
 				"id": "2",
 				"baseUrl": "https://anime-sama.si",
-				"versionId": 22
+				"versionId": 23
 			}
 		]
 	},
