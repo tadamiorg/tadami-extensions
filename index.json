@@ -51,23 +51,6 @@
 		]
 	},
 	{
-		"name": "Tadami: FrAnime",
-		"pkg": "com.sf.tadami.extension.fr.franime",
-		"apk": "tadami-fr.franime-v1.4.1.apk",
-		"lang": "fr",
-		"code": 1,
-		"version": "1.4.1",
-		"sources": [
-			{
-				"name": "FrAnime",
-				"lang": "fr",
-				"id": "15",
-				"baseUrl": "https://franime.fr",
-				"versionId": 1
-			}
-		]
-	},
-	{
 		"name": "Tadami: VoirAnime",
 		"pkg": "com.sf.tadami.extension.fr.voiranime",
 		"apk": "tadami-fr.voiranime-v1.4.2.apk",
