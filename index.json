@@ -2,34 +2,34 @@
 	{
 		"name": "Tadami: AnimeSama",
 		"pkg": "com.sf.tadami.extension.fr.animesama",
-		"apk": "tadami-fr.animesama-v1.5.29.apk",
+		"apk": "tadami-fr.animesama-v1.6.30.apk",
 		"lang": "fr",
-		"code": 29,
-		"version": "1.5.29",
+		"code": 30,
+		"version": "1.6.30",
 		"sources": [
 			{
 				"name": "AnimeSama",
 				"lang": "fr",
 				"id": "2",
 				"baseUrl": "https://anime-sama.to",
-				"versionId": 29
+				"versionId": 30
 			}
 		]
 	},
 	{
 		"name": "Tadami: VoirAnime",
 		"pkg": "com.sf.tadami.extension.fr.voiranime",
-		"apk": "tadami-fr.voiranime-v1.5.6.apk",
+		"apk": "tadami-fr.voiranime-v1.6.7.apk",
 		"lang": "fr",
-		"code": 6,
-		"version": "1.5.6",
+		"code": 7,
+		"version": "1.6.7",
 		"sources": [
 			{
 				"name": "VoirAnime",
 				"lang": "fr",
-				"id": "19",
+				"id": "4",
 				"baseUrl": "https://voir-anime.to",
-				"versionId": 6
+				"versionId": 7
 			}
 		]
 	},
@@ -64,6 +64,40 @@
 				"id": "15",
 				"baseUrl": "https://franime.fr",
 				"versionId": 2
+			}
+		]
+	},
+	{
+		"name": "Tadami: IAnimes",
+		"pkg": "com.sf.tadami.extension.fr.ianimes",
+		"apk": "tadami-fr.ianimes-v1.6.1.apk",
+		"lang": "fr",
+		"code": 1,
+		"version": "1.6.1",
+		"sources": [
+			{
+				"name": "IAnimes",
+				"lang": "fr",
+				"id": "102",
+				"baseUrl": "https://www.ianimes.eu",
+				"versionId": 1
+			}
+		]
+	},
+	{
+		"name": "Tadami: AnimePahe",
+		"pkg": "com.sf.tadami.extension.en.animepahe",
+		"apk": "tadami-en.animepahe-v1.5.7.apk",
+		"lang": "en",
+		"code": 7,
+		"version": "1.5.7",
+		"sources": [
+			{
+				"name": "AnimePahe",
+				"lang": "en",
+				"id": "7",
+				"baseUrl": "https://animepahe.com",
+				"versionId": 7
 			}
 		]
 	}
