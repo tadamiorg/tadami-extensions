@@ -70,17 +70,19 @@
 	{
 		"name": "Tadami: IAnimes",
 		"pkg": "com.sf.tadami.extension.fr.ianimes",
-		"apk": "tadami-fr.ianimes-v1.6.2.apk",
+		"apk": "tadami-fr.ianimes-v1.6.3.apk",
 		"lang": "fr",
-		"code": 2,
-		"version": "1.6.2",
+		"code": 3,
+		"version": "1.6.3",
+		"sha256": "dfb71290964682c62e01248f9df02f882c6d9a3560faa990f0d5c1a853aa1eed",
+		"size": 164318,
 		"sources": [
 			{
 				"name": "IAnimes",
 				"lang": "fr",
 				"id": "102",
 				"baseUrl": "https://www.ianimes.eu",
-				"versionId": 2
+				"versionId": 3
 			}
 		]
 	},
