@@ -2,19 +2,19 @@
 	{
 		"name": "Tadami: AnimeSama",
 		"pkg": "com.sf.tadami.extension.fr.animesama",
-		"apk": "tadami-fr.animesama-v1.6.36.apk",
+		"apk": "tadami-fr.animesama-v1.6.37.apk",
 		"lang": "fr",
-		"code": 36,
-		"version": "1.6.36",
-		"sha256": "b83e858f86123c6dcff468970f8761cdf05f0277e1b37a237373930688ece2f9",
-		"size": 203486,
+		"code": 37,
+		"version": "1.6.37",
+		"sha256": "ab597e1024ac428ebea10d8e407c1d6e282c931604e43f67be7505ec1d665e2e",
+		"size": 221246,
 		"sources": [
 			{
 				"name": "AnimeSama",
 				"lang": "fr",
 				"id": "2",
 				"baseUrl": "https://anime-sama.to",
-				"versionId": 36
+				"versionId": 37
 			}
 		]
 	},
